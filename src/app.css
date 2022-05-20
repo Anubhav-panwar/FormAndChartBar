@@ -1,0 +1,43 @@
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 110vh;
+    margin: 0 auto;
+    width: 92vw;
+    border: 10px solid rgb(206, 205, 205);
+  }
+  .left{
+   
+    height: 100%;
+    width: 60%;
+    background-color: rgb(242, 247, 251);
+  }
+  .left img{
+      height: 520px;
+  }
+  .right{
+    
+    height: 100%;
+    width: 38%;
+    padding: 40px;
+    padding-top: 40px;
+  }
+  .right form{
+    margin: 75px;
+    margin-top: 12px;
+  }
+  
+  .terms{
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 20px;
+  }
+  .btn{
+    padding: 15px;
+    background: skyblue;
+    color: white;
+    border: none;
+  }
+ 
+  
